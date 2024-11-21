@@ -2,7 +2,6 @@ Medical Treatment Appointments Data Analysis & Prediction Project
 ![Medical Png](https://github.com/user-attachments/assets/ff266c55-b9b0-43d7-b99b-c881f44cf39d)
 ![png](https://github.com/user-attachments/assets/1071d734-405a-4fbe-9ece-6d42998c8806)
 
-```markdown
 # Medical Treatment Appointments Data Analysis & Prediction Project
 
 🚀 **Project Overview**
